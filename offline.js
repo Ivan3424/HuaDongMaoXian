@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530868828,
+	"version": 1530873052,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,7 @@
 		"images/cloud-sheet0.png",
 		"images/title-sheet0.png",
 		"images/tutor1-sheet0.png",
+		"images/tutor1-sheet1.png",
 		"images/tutor2-sheet0.png",
 		"media/bgm.ogg"
 	]
